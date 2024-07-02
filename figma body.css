@@ -1,0 +1,386 @@
+.gift-boxes{
+  margin: 0px;
+  width: 100%;
+  opacity: 0.8;
+}
+
+.mainheader{
+  background: #C5221F;
+  box-shadow: 0px 4px 24px 0px rgba(0, 0, 0, 0.25);
+  width: 100%;
+}
+.gift-div{
+  margin: 0px;
+  object-fit: contain;
+  position: relative;
+}
+.absolute{
+  position: absolute;
+  right: 500px;
+  top: 500px;
+  left: 500px;
+  text-align: center;
+}
+.wrap{
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+.experience{
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 20px;
+  width: 500px;
+}
+
+.button1{
+  background-color: rgb(212, 142, 11);
+  width: 280px;
+  height: 50px;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-style: none;
+  margin-top: 15px;
+}
+.our-services{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+.main-body{
+  display: grid;
+  grid-template-columns: 500px 500px;
+  row-gap: 40px;
+  background-color: rgb(223, 221, 221);
+  column-gap: 60px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 220px;
+  border-bottom: 10px;
+  border-bottom-color: greenyellow;
+  margin-top: 200px;
+}
+.sourcing{
+  display: flex;
+  color: rgba(0, 44, 95, 1);
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+
+}
+.we{
+  width: 400px;
+  margin-left: 20px;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+.sub-div{
+  background-color:white;
+  border-radius: 40px;
+  width: 500px;
+}
+.rectangle-6{
+  width: 500px;
+}
+.imgg{
+  width: 100%;
+}
+.active-hours{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(51, 51, 51, 1);
+  font-family: Playfair Display, Arial;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 64px;
+  letter-spacing: 0em;
+}
+.flexy{
+ 
+  grid-template-columns: 550px 40px 300px 50px;
+  align-items: center;
+  column-gap: 5px;
+  
+}
+.days{
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(51, 51, 51, 1);
+  word-wrap: nowrap;
+  margin-left: 500px;
+  align-items: center;
+}
+.group1{
+  display: inline-block;
+  margin-right: 50px;
+  padding-top: 50px;
+  height: 20px;
+}
+.day{
+  font-size: 25px;
+  color: blueviolet;
+  margin-left: 100px;
+}
+.group2{
+  display: inline-block;
+  margin-right: 200px;
+  align-items: center;
+  height: 20px;
+}
+.testing{
+  display: inline-block;
+  margin-left: 70px;
+  align-items: center;
+}
+.span{
+  margin-top: 10px;
+}
+.Testimonials{
+  text-align: center;
+  margin-top: 70px;
+  padding-top: 30px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.flexbox2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.emeka{
+  margin-right: 500px;
+  font-size: 18px;
+}
+.clam{
+  font-weight: bold;
+  font-size: 15px;
+}
+.eclipse1{
+  margin-left: 80px;
+}
+.third-section{
+  background-color: rgb(223, 221, 221);
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+.contact-us{
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+.flexbox3{
+  display: flex;
+  column-gap: 40px;
+  margin-top: 20px;
+  margin-left: 600px;
+}
+.instagram{
+  height: 30px;
+}
+.section-four{
+    background-color: rgb(223, 221, 221);
+  padding-bottom: 40px;
+  padding-top: 20px;
+  margin-top: 30px;
+}
+
+.another-section{
+  background: rgba(0, 44, 95, 1);
+  padding-bottom: 30px;
+  margin-top: 20px;
+}
+.flexbox-5{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.go-to{
+  text-align: center;
+  color: white;
+}
+.bt{
+  background-color: rgb(212, 142, 11);
+  width: 200px;
+  height: 50px;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-style: none;
+  margin-top: 15px;
+  margin-left: 600px;
+}
+.line-2{
+  margin-right: 300px;
+  width: 300px;
+}
+.line-3{
+  margin-left: 300px;
+  width: 300px;
+}
+.just-rhoze{
+  height: 120px;
+}
+.flex8{
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+}
+.copy{
+  margin-left: 300px;
+  color: white;
+}
+.instagram2{
+  margin-right: 200px;
+}
+.instagram11, .instagram12,
+.instagram13, .instagram14{
+  height: 20px;
+  margin-left: 20px;
+}
+.boss8{
+  background: rgba(0, 44, 95, 1);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-top-style:solid;
+  border-top-color: white;
+  border-top-width:thin;
+}
+
+@media (max-width: 600px) {
+  .main-body{
+    display: grid;
+    grid-template-columns: 400px;
+    background-color: rgb(244, 247, 244);
+    align-content: center;
+  }
+  .sub-div{
+    margin-left: -200px;
+  }
+}
+@media( max-width: 600px){
+  .active-hours{
+    font-size: 27px;
+    margin-bottom: 0px;
+  }
+  .days{
+    font-size: 18px;
+    margin-left: 80px;
+    margin-top: -40px;
+  }
+  .group2{
+    margin-right: 50px;
+  }
+ 
+}
+@media(max-width:600px)
+{
+.flexbox2{
+  display: block;
+}
+.emeka{
+  width: 400px;
+  text-align: center;
+  align-items: center;
+  margin-left: 50px;
+}
+.flexbox3{
+  margin-left: 140px;
+}
+.line-3{
+  width: 150px;
+  padding-left: 200px;
+}
+.line-2{
+  width: 150px;
+  padding-right: 200px;
+}
+.go-to{
+  width: 300px;
+  margin-left: 120px;
+}
+.bn{
+  margin-left: -450px;
+}
+.flex8{
+  margin-left: -270px;
+}
+.copy{
+  padding-left: 10px;
+}
+.instagram2{
+  width: 300px;
+  margin-right: -20px;
+}
+.absolute{
+  right: 200px;
+  top: 40px;
+  left: 120px;
+  
+}
+.experience{
+  font-size: 30px;
+  width: 300px;
+  color: rgb(255, 255, 255);
+}
+.wrap{
+  font-size: 20px;
+  width: 300px;
+  color: rgb(240, 240, 240);
+  
+}
+.button1{
+  width: 150px;
+  margin-left: 40px;
+}
+.gift-boxes{
+  filter: blur(6px);
+}
+.content{
+  display: none;
+}
+.dashed-lines{
+  display: flex;
+  margin-left: 20px;
+}
+.rhoze2{
+  margin-left: 150px;
+}
+.right{
+  width: 300px;
+  padding-left: 10px;
+}
+.eclipse{
+  margin-left: 40px;
+}
+.emeka{
+  text-align: center;
+  margin-right: -40px;
+}
+.bn{
+  margin-right: 4px;
+  align-items: center;
+}
+.flexbox-5{
+  margin-left: -480px;
+  align-content: center;
+}
+}
